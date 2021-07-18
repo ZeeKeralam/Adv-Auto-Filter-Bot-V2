@@ -91,9 +91,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton(' 🔰⭕ Channel ⭕🔰 ', url='https://t.me/joinchat/8GZa_Rf4nltlYTQ1'),
-        InlineKeyboardButton(' 🔰⭕ Group ⭕🔰 ', url ='@Zeekeralamofficial')
+        InlineKeyboardButton(' 🔰⭕ Group ⭕🔰 ', url ='https://t.me/Zeekeralamofficial')
     ],[
-        InlineKeyboardButton('Help 🛠', url='@Zee_keralambot')
+        InlineKeyboardButton('Help 🛠', url='https://t.me/Zee_keralambot')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
